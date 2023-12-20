@@ -12,5 +12,5 @@ Linked-In : <a href = "https://www.linkedin.com/in/aditya113141/"> AdityaSinha</
 <h3><span id="a">Aditya@Sinha</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
 <h1> I hate studying :P </h1>
 
-<h3><span id="a">Adityakumar@Sinha</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h3><span id="a">Aditya@Sinha</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
 <h1>Everyone is a loser till they decide to do something about it. </h1>
